@@ -14,7 +14,7 @@ class MyApp extends StatelessWidget {
       SystemUiOverlayStyle(statusBarColor: Colors.transparent),
     );
     return MaterialApp(
-      title: 'Flutter Demo',
+      title: 'X9CINEMA',
       home: Splash(),
       debugShowCheckedModeBanner: false,
       theme: ThemeData(
